@@ -18,7 +18,7 @@ I was able to reach these conclusions:
 
 # The solution to all the problems that this DeFi Exchange has is to migrate the entire program to node 20 and update all the packages that are deprecated, even those that have not received support since 2019.
 
-* Migrating to Node.js 20 and updating all deprecated packages may be a solution to resolve some of the issues you are experiencing on your DeFi Exchange. However, it is important to note that performing these updates can require significant time and effort, as there may be incompatibilities and API changes between old and new versions of Node.js and packages.
+* Migrating to Node.js V20 and updating all deprecated packages may be a solution to resolve some of the issues you are experiencing on your DeFi Exchange. However, it is important to note that performing these updates can require significant time and effort, as there may be incompatibilities and API changes between old and new versions of Node.js and packages.
 
 * Before performing the migration and update, it is advisable to perform a thorough analysis of the packages and dependencies used in your project. This involves checking if newer versions are available for packages that are deprecated and evaluating the implications of updating them.
 
